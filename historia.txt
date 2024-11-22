@@ -1,3 +1,7 @@
 introducción de almenos 3 líneas
 linea 2
-y papra terminar 3 lineas
+y papra terminar 3 líneas
+
+Desarrollo de 3 líneas
+linea 2
+linea 3
